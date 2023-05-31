@@ -1,0 +1,10 @@
+name: KHub
+version: '${project.version}'
+main: org.kelsidev.khub
+api-version: 1.16
+authors: [ KelsiDev ]
+commands:
+  sethub:
+    aliases: [setspawn, setlobby]
+  hub:
+    aliases: [spawn, lobby]
