@@ -1,2 +1,4 @@
 # this is plugin config. So far it is empty, but in future versions of the plugin there will be parameters
 
+messages:
+  player-join: "%player% joined to the server!"
